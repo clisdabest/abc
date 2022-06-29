@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:#f6f6f6;
+    color:#000;
+}
+
+.typewrite > .wrap {
+    color: #e85151;
+    font-family:cursive;
+}
+
+* {
+    color:#e85151; text-decoration: none;
+}
